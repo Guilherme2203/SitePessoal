@@ -1,0 +1,108 @@
+    /*--------------------------------------------------------------
+    General
+    --------------------------------------------------------------*/
+<style>    
+    body{
+    margin: 0;
+    }
+    p{
+    font-family: 'Love Ya Like A Sister', justify;
+    font-size: 5vh;
+    }
+    h1{
+    padding-top: 30vh;
+    font-family: 'Love Ya Like A Sister', justify;
+    } 
+    h2, h3, h4, h5, h6{
+    padding-top: 0vh;
+    font-family: 'Love Ya Like A Sister', justify;
+    }
+    a:visited{
+    color: #000;
+    }
+    a:link{
+    color: #000;
+    }
+    a:hover{
+    color: green;
+    }
+    #SubMenu ul li{
+    display: inline;
+    background: transparent;
+    margin-left: 3vh;
+    font-size: 3vh;
+    text-transform: uppercase;
+    }
+    #SubMenu{
+    padding: 2% 2%;
+    font-family:'Love Ya Like A Sister', justify;
+    text-align:center;
+    top:0;
+    position:fixed;
+    background-color:#fff;
+    right: 0;
+    left: 0;
+
+    }
+    #SubHome{
+    text-align: center;
+    letter-spacing:1px;
+    font-size: 4vh;
+    background-image: url(img/Fundo.jpg);
+    background-repeat:no-repeat;
+    background-color: black;
+    color:#5AD63C;
+    background-attachment:fixed;
+    background-position: center;
+    height: 100vh;
+    }
+    #SubSobreMim{
+    text-align: justify;
+    letter-spacing:1px;
+    padding: 2% 12% 5%;
+    font-size: 50px;
+    background: 50px;
+    }
+    #SubSobreMim img{
+    border-radius:10px 50px;
+    }
+    #ImagemUTFPR{
+    text-align: center;		
+    }
+    #SubMeuSetup{
+    text-align: justify;
+    letter-spacing:1px;
+    padding: 2% 12% 5%;
+    font-size: 50px;
+    background: 50px;
+    }
+    #SubGostoseHobbies{
+    text-align: justify;
+    letter-spacing:1px;
+    padding: 2% 12% 5%;
+    font-size: 50px;
+    background: 50px;
+    }
+    #SubCoisasQueGosto{
+    text-align: center;
+    letter-spacing:1px;
+    padding: 2% 12% 5%;
+    font-size: 50px;
+    background: 50px;
+    }
+    #SubContato{
+    text-align: justify;
+    letter-spacing:1px;
+    padding: 3% 12% 5%;
+    font-size: 35px;
+    background: 10px;
+    }
+    #SubOndeMeEncontrar{
+    text-align: center;
+    letter-spacing:1px;
+    font-size: 50px;
+    background: 50px;
+    padding:2% 30% 2%;
+    float:left;
+    }
+</style>
